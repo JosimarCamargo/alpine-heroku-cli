@@ -1,5 +1,5 @@
 FROM node:10.6.0-alpine
-MAINTAINER Stafford Brunk <stafford.brunk@gmail.com>
+LABEL maintainer='Josimar Camargo <josimarcamargo@gmail.com>'
 LABEL version='7.6.0'
 LABEL description='Heroku CLI packaged on alpine linux'
 
